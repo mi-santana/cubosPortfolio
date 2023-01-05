@@ -1,0 +1,95 @@
+.image-top {
+    display: flex;
+    align-items: flex-end;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: absolute;
+    width: 445px;
+    height: 357px;
+    background-color: #FFFFFF;
+}
+
+.top-box h1 {
+    margin: 55px auto;
+    width: 390px;
+    height: 200px;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.45px;
+    color: #33323D;
+}
+
+.about-btn {
+    display: flex;
+    justify-content: space-between;
+    background-color: #203A4C;
+    color: #FFFFFF;
+}
+
+.about-btn:hover {
+    background-color: #5FB4A2;
+}
+
+.about-btn span {
+    margin: 0 auto;
+}
+
+svg {
+    position: absolute;
+    margin: 18px 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.about-btn:hover svg g {
+    stroke: #FFFFFF;
+}
+
+.about-btn-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    background-color: #000;
+    opacity: 0.1;
+}
+
+.box-btn-portfolio {
+    display: flex;
+    justify-content: center;
+}
+
+.portfolio-btn {
+    border: 1px solid #33323D;
+
+    color: #33323D;
+}
+
+.middle-content {
+    display: flex;
+    gap: 135px;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    height: 502px;
+}
+
+.about-text {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding: 40px 0;
+}
+
+.right-side button:hover {
+    background-color: #33323D;
+    color: #ffffff;
+}
