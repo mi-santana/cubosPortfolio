@@ -16,6 +16,12 @@ Desafio do final do primeiro módulo do curso da <a target="_blank" href="https:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
+## ✒️ Visual
+
+![alt text](assets/portfolio-site-home.png)
+![alt text](assets/portfolio-site-portfolio.png)
+![alt text](assets/portfolio-site-contact.png)
+
 <div align="center">
 Feito com 💜 por <a target="_blank" href="https://www.linkedin.com/in/mi-santana/">Milena Santana</a> 😊
 </div>
